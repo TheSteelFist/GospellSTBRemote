@@ -56,7 +56,9 @@ Here are the NEC codes below if anyone wants to convert it for their own self:
 807F F807 - OK (248)
 
 
+
 Below are the NEC codes for buttons I didn't put in the app, cause I've never used it and are obsolete to me.
+
 
 807F 58A7 - Audio (88)
 
