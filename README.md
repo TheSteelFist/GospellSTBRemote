@@ -4,6 +4,7 @@ This is an app that can be used to control Gospell Set Top Box using an IR blast
 The app works as an app, it also shoots IR blasts. However, it seems the code its sending is incorrect. Because my settop box doesn't seem to repsond to the int patterns i've been sending.
 
 I suspect that its a conversion issue, because I converted the IR codes from NEC format to integer format for the java application.
+I found these NEC codes using the IR finder app on mobile.
 
 Here are the NEC codes below if anyone wants to convert it for their own self:
 
