@@ -6,6 +6,7 @@ The app works as an app, it also shoots IR blasts. However, it seems the code it
 I suspect that its a conversion issue, because I converted the IR codes from NEC format to integer format for the java application.
 
 Here are the NEC codes below if anyone wants to convert it for their own self:
+
 807F 50AF - Power ON/OFF (80)
 807F D827 - INFO (216)
 807F 30CF - Mute (48)
